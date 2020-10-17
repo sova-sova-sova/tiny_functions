@@ -1,0 +1,8 @@
+{
+  "name":"modulebz/tiny_functions",
+  "autoload": {
+    "files": [
+      "functions.php"
+    ]
+  }
+}
